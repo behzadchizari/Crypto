@@ -1,4 +1,5 @@
-c:\users\chizari\documents\visual studio 2015\Projects\Crypto\Cryptography\bin\Debug\Cryptography.dll
-c:\users\chizari\documents\visual studio 2015\Projects\Crypto\Cryptography\bin\Debug\Cryptography.pdb
-c:\users\chizari\documents\visual studio 2015\Projects\Crypto\Cryptography\obj\Debug\Cryptography.dll
-c:\users\chizari\documents\visual studio 2015\Projects\Crypto\Cryptography\obj\Debug\Cryptography.pdb
+C:\Users\chizari\Documents\Visual Studio 2015\Projects\Crypto\Cryptography\bin\Debug\Cryptography.dll
+C:\Users\chizari\Documents\Visual Studio 2015\Projects\Crypto\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\chizari\Documents\Visual Studio 2015\Projects\Crypto\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+C:\Users\chizari\Documents\Visual Studio 2015\Projects\Crypto\Cryptography\obj\Debug\Cryptography.dll
+C:\Users\chizari\Documents\Visual Studio 2015\Projects\Crypto\Cryptography\obj\Debug\Cryptography.pdb
